@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dde8c5c64e3ff40a0a6c749fb50eb080, type: 3}
+  m_Name: Default Texture
+  m_EditorClassIdentifier: 
+  autoUpdate: 1
+  layers:
+  - texture: {fileID: 2800000, guid: c72e7f98dd13d44f585b005fb53026e9, type: 3}
+    tint: {r: 0.22352941, g: 0.3529412, b: 0.47058824, a: 0}
+    tintStrength: 0.202
+    startHeight: 0
+    blendStrength: 0.35
+    textureScale: 1.04
+  - texture: {fileID: 2800000, guid: 8a53cfe94d3ee442bb09aef1c08732cc, type: 3}
+    tint: {r: 0.65882355, g: 0.5803922, b: 0.47058824, a: 0}
+    tintStrength: 0.219
+    startHeight: 0.128
+    blendStrength: 0.097
+    textureScale: 0.51
+  - texture: {fileID: 2800000, guid: 37fb1f98ad5944c8086761012b00b14d, type: 3}
+    tint: {r: 0.26666668, g: 0.3019608, b: 0.08627451, a: 0}
+    tintStrength: 0
+    startHeight: 0.249
+    blendStrength: 0.676
+    textureScale: 0
+  - texture: {fileID: 2800000, guid: 2dc7fe8f3145540368d39bcec476479c, type: 3}
+    tint: {r: 0.40784314, g: 0.3764706, b: 0.3019608, a: 0}
+    tintStrength: 0.226
+    startHeight: 0.423
+    blendStrength: 0.81
+    textureScale: 3.44
+  - texture: {fileID: 2800000, guid: d6e9acfc5140c48d1a1e0444f95d5854, type: 3}
+    tint: {r: 0.36862746, g: 0.31764707, b: 0.25490198, a: 0}
+    tintStrength: 0.266
+    startHeight: 0.602
+    blendStrength: 0.872
+    textureScale: 3.87
+  - texture: {fileID: 2800000, guid: e03d211c14d13490dbb39db2ef44fbef, type: 3}
+    tint: {r: 0.36862746, g: 0.31764707, b: 0.25490198, a: 0}
+    tintStrength: 0.502
+    startHeight: 0.69
+    blendStrength: 0.898
+    textureScale: 5.16
+  - texture: {fileID: 2800000, guid: 4d3dd5e158b6d4cbfabd861d329f0e45, type: 3}
+    tint: {r: 0.8901961, g: 0.8901961, b: 0.8901961, a: 1}
+    tintStrength: 0.502
+    startHeight: 0.69
+    blendStrength: 0.898
+    textureScale: 5.16
